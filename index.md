@@ -1,19 +1,20 @@
 ---
-title: Fraser Lab
+title: DiNicola Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the DiNicola Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are coming to the [Department of Psychology at the University of Virgnia](https://psychology.as.virginia.edu/) in Fall 2025!
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+<!-- ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"} -->
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
-{: .welcomefont}
+We study _how_ our brains support complex cognitive functions to better understand _why_ human minds are both flexible and vulnerable to psychopathology. 
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+Humans are fascinating! We can recall past experiences, consider friends' feelings, imagine new scenarios and communicate through language. Our research grapples with how our brains support our capacities for complex thoughts. See the "Research" tab for more details! 
+
+We are recruiting team members! See the "Join Us!" tab for more information! 
 {: .welcomefont}
