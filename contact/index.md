@@ -11,7 +11,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
+  <h4> Future Lab Location </h4>
   [Department of Psychology](https://psychology.as.virginia.edu/)<br>
   Gilmer Hall, 485 McCormick Road<br>
   Charlottesville, VA 22904<br>
