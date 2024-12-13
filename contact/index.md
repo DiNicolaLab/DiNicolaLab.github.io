@@ -19,7 +19,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>DiNicola Lab</h4>
+  <h4> Contact Us </h4>
   email: dinicolalab (at) gmail.com <br>
 
 </div>
