@@ -26,7 +26,8 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Lauren DiNicola, Ph.D. </h4>
+  <h4> Principal Investigator </h4>
+  Lauren DiNicola, Ph.D. 
   Assistant Professor (Starting Aug. 2025) <br>
   email: kpw6tb(at) virginia.edu<br>
 
