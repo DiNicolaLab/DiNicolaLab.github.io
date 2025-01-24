@@ -16,5 +16,5 @@ We study _how_ our brains support complex cognitive functions to better understa
 
 Humans are fascinating! We can recall past experiences, consider friends' feelings, imagine new scenarios and communicate through language. Our research grapples with how our brains support our capacities for complex thoughts. See the "Research" tab for more details! 
 
-We are recruiting team members! See the "Join Us!" tab for more information! 
+We are recruiting team members! See the "Join" tab for more information! 
 {: .welcomefont}
