@@ -16,7 +16,7 @@ We use neuroimaging (MRI) and lots of other tools to learn about networks, cogni
 
 <br> 
 <br>
-
+#### Why association cortex? 
 Association cortex (zones furthest from primary sensory and motor areas) is fascinating because it shows disproportionate evolutionary expansion and prolonged postnatal development, with regions linked to multiple of the complex cognitive abilities that seem particularly advanced in humans. 
 
 Within association zones, regions form interconnected networks that are distributed (i.e., spread across the brain) and parallel (i.e., with regions of different networks side-by-side). More details of these networks can be appreciated when studying individuals, and our recent work has shown that multiple of these networks can be functionally dissociated. 
@@ -30,5 +30,7 @@ For example, three interwoven networks - often blurred in group-averaged data - 
 The image above shows one example of three domain-specialized association networks, defined within a single individual & preferentially responding to tasks from distinct domains. (Image 2 in DiNicola & Buckner 2021)
 
 The exact processes that association networks support, how they develop, how they might interact to underlie complex functions and whether networks change in the face of major life events are just some of the open questions we aim to tackle! 
+
+#### More details coming soon! 
 
 </div>
