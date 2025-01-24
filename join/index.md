@@ -6,9 +6,7 @@ group: join
 
 ## Join the DiNicola Lab!
 
-<div, class=row> 
 We strive to provide enriching opportunities for all trainees, including those from marginalized and historically disadvantaged backgrounds. We welcome and encourage applications from all trainees, including those who identify as members of marginalized or historically disadvantaged groups! 
-</div> 
 
 
 ### Graduate Students
