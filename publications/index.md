@@ -7,9 +7,9 @@ group: research
 <div class="row">
 
 ### Some Recent Publications! 
-#### _see also Dr. DiNicola's [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=OvdmX0YAAAAJ&view_op=list_works&sortby=pubdate)
- <br>
- <br>
+#### _see also Dr. DiNicola's [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=OvdmX0YAAAAJ&view_op=list_works&sortby=pubdate)  
+
+
 #### 2024
 
 Jingnan Du*, Lauren M. DiNicola*, Peter A. Angeli*, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
