@@ -64,7 +64,7 @@ Randy L. Buckner & Lauren M. DiNicola
 	[**The brain’s default network: updated anatomy, physiology and evolving insights**](https://www.nature.com/articles/s41583-019-0212-7.pdf) _Nature Reviews Neuroscience_
 
 
-... see also Dr. DiNicola's [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=OvdmX0YAAAAJ&view_op=list_works&sortby=pubdate)  
+... see more via Dr. DiNicola's [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=OvdmX0YAAAAJ&view_op=list_works&sortby=pubdate)  
 
 
 
