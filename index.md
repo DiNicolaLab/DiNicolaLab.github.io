@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-### Welcome to the DiNicola Lab!
+#### Welcome to the DiNicola Lab!
 {: .display-4}
 <br>
 We are coming to the [Department of Psychology at the University of Virgnia](https://psychology.as.virginia.edu/) in Fall 2025!
