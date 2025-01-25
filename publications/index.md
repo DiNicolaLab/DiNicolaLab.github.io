@@ -9,8 +9,6 @@ group: research
 ### Some Recent Publications! 
 
 <br/>
-<br/>
-
 #### 2024
 
 Jingnan Du*, Lauren M. DiNicola*, Peter A. Angeli*, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
