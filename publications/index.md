@@ -12,7 +12,7 @@ group: research
  <br>
 #### 2024
 
-Jingnan Du*, _Lauren M. DiNicola*_, Peter A. Angeli*, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
+Jingnan Du*, Lauren M. DiNicola*, Peter A. Angeli*, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
 	[**Organization of the human cerebral cortex estimated within individuals: networks, global topography, and function**](https://journals.physiology.org/doi/pdf/10.1152/jn.00308.2023) _Journal of Neurophysiology_ (* denotes co-first authorship)
 
 ![image](https://github.com/user-attachments/assets/b5e68108-de4f-4e61-b499-f42e6d678bb6)
