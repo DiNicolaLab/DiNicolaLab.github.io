@@ -10,8 +10,6 @@ We strive to provide enriching opportunities for all trainees, including those f
 
 
 ### Open Positions
-<br>
-
 ##### Research Technician / Lab Manager 
 We are actively recruiting a full-time Research Technician / Lab Manager! This is a two-year, fully on-site position (fall 2025-summer 2027). We will post the full advertisement shortly, and please reach out to Dr. DiNicola directly with your interest or questions! 
 
@@ -19,9 +17,8 @@ We are actively recruiting a full-time Research Technician / Lab Manager! This i
 Inquiries about Postdoctoral positions should be emailed directly to [Dr. Lauren DiNicola](/contact). Formal ad coming soon.
 
 
-### Other Positions 
-<br>
 
+### Other Positions 
 ##### Graduate Students
 Applications for entering the graduate program in fall 2025 have closed. Thank you for your interest! 
 
