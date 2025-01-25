@@ -9,6 +9,7 @@ group: research
 ### Some Recent Publications! 
 #### _see also Dr. DiNicola's [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=OvdmX0YAAAAJ&view_op=list_works&sortby=pubdate)  
 
+<br/>
 
 #### 2024
 
