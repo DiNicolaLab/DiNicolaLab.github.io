@@ -6,7 +6,7 @@ group: research
 
 <div class="row">
 
-### Research Overview
+### Overview
 
 With minimal effort, you can recall past experiences, consider friends’ feelings, imagine new scenarios, and communicate. Understanding _how_ we engage in these advanced forms of thought can provide insight into _why_ human minds are flexible but also vulnerable to psychopathology.
 
