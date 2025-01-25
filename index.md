@@ -12,7 +12,6 @@ We are coming to the [Department of Psychology at the University of Virgnia](htt
 
 <!-- ![DiNicola lab brain](static/img/logo/example_brain.png){:style="max-width: 100%; height: auto;"} --> 
 
-We study _how_ our brains support complex cognitive functions to better understand _why_ human minds are both flexible and vulnerable to psychopathology. See the "Research" tab for more details! 
+We study _how_ our brains support complex cognitive functions to better understand _why_ human minds are both flexible and vulnerable to psychopathology. We use a precision neuroscience approach to examine the organization & functions of humans' large-scale brain networks, as well as how those networks develop & change. See the "Research" tab for more details! 
 
-We are recruiting team members! See the "Join" tab for more information! 
 {: .welcomefont}
