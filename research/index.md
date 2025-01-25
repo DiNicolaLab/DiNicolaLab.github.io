@@ -27,7 +27,7 @@ For example, three interwoven networks - often blurred in group-averaged data - 
 <img class="img-fluid" src="/static/img/pub/Img2DiNicolaBuckner.png" alt="qFit">
 </div>
 
-The image above shows an example of three domain-specialized association networks, defined within a single individual. The networks differnetially respond to tasks tareting memory, theory of mind and language (Fig. 2 in DiNicola & Buckner 2021). Think about that further - within the zones showing the greatest evolutionary expansion in humans and prolonged postnatal development, there are distinct networks - with regions side-by-side across the cortex - each supporting a functional domain that appears particularly advanced in the human niche! 
+The image above shows an example of three domain-specialized association networks, defined within a single individual. The networks differentially respond to tasks tareting memory, theory of mind and language (Fig. 2 in DiNicola & Buckner 2021). Think about that further - within the zones showing the greatest evolutionary expansion in humans AND prolonged postnatal development, there are distinct networks - with regions side-by-side across the cortex - each supporting a functional domain that appears particularly advanced in the human niche! 
 
 What exact processes do these & nearby association networks support? How does this type of parallel organization arise? How do might these networks interact in service of complex functions? And how might network organization and/or function change across development & in the face of major life events? These are just some of the open questions we aim to tackle! 
 
