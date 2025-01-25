@@ -14,8 +14,8 @@ Our lab uses within-individual ('precision') approaches to study association net
 
 We use neuroimaging (MRI) and lots of other tools to learn about networks, cognitive processes & factors that might impact network function and change. Some of those other tools include ecological momentary assessment (EMA), behavioral tasks, questionnaires and hormonne samples to characterize fluctuations in individual experiences over time.
 
-<br> 
-<br>
+
+
 #### More Information 
 Association cortex (zones furthest from primary sensory and motor areas) is fascinating because it shows disproportionate evolutionary expansion and prolonged postnatal development, with regions linked to multiple of the complex cognitive abilities that seem particularly advanced in humans. 
 
