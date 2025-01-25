@@ -6,7 +6,7 @@ group: research
 
 <div class="row">
 
-### Some Recent Publications! 
+### Some Recent Publications!  
 
 <br/>
 #### 2024
