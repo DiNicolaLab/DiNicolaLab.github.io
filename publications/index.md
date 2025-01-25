@@ -12,7 +12,10 @@ group: research
 Jingnan Du#, Lauren M. DiNicola#, Peter A. Angeli#, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
 	[**Organization of the human cerebral cortex estimated within individuals: networks, global topography, and function**](https://journals.physiology.org/doi/pdf/10.1152/jn.00308.2023) _Journal of Neurophysiology_ (# denotes co-first authorship)
 
-![image](https://github.com/user-attachments/assets/f72e7d4a-6137-4a4c-a3c7-54e43b1d2f51)
+
+<div>
+<img class="img-fluid" src="/static/img/pub/Abstract1.png" alt="qFit" width=600>
+</div>
 
 Peter A. Angeli, _Lauren M. DiNicola_, Noam Saadon-Grosman, Mark C. Eldaief & Randy L. Buckner
 	[**Specialization of the human hippocampal long axis revisited.**](https://www.pnas.org/doi/pdf/10.1073/pnas.2422083122) _PNAS_ 
@@ -25,19 +28,25 @@ Noam Saadon-Grosman, Jingnan Du, Heather L. Kosakowski, Peter A. Angeli, _Lauren
 _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
 	[**Side-by-side regions in dorsolateral prefrontal cortex estimated within the individual respond differentially to domain-specific and domain-flexible processes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11068361/) _Journal of Neurophysiology_
 
-![image](https://github.com/user-attachments/assets/8b0d1160-5c4c-490a-9c98-10d43d0ef9c1)
+<div>
+<img class="img-fluid" src="/static/img/pub/Abstract2.png" alt="qFit" width=600>
+</div>
 
 _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 	[**Functional specialization of parallel distributed networks revealed by analysis of trial-to-trial variation in processing demands**](https://journals.physiology.org/doi/prev/20221005-aop/pdf/10.1152/jn.00211.2022) _Journal of Neurophysiology_
 
-![image](https://github.com/user-attachments/assets/389d2df2-3d4a-447d-94bc-0a655fd86877)
+<div>
+<img class="img-fluid" src="/static/img/pub/Abstract3.png" alt="qFit" width=600>
+</div>
 
 #### 2022
 
 Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
-	[**A third somatomotor representation in the human cerebellum**](https://journals.physiology.org/doi/epdf/10.1152/jn.00165.2022)
+	[**A third somatomotor representation in the human cerebellum**](https://journals.physiology.org/doi/epdf/10.1152/jn.00165.2022) _Journal of Neurophysiology_
 
-![image](https://github.com/user-attachments/assets/46b4e570-959e-4bd9-ad66-cda83b25bd22)
+<div>
+<img class="img-fluid" src="/static/img/pub/Abstract4.png" alt="qFit" width=600>
+</div>
 
 #### 2021 
 
@@ -48,7 +57,9 @@ _Lauren M. DiNicola_ & Randy L. Buckner
 Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. DiNicola_, Rodrigo M. Braga, Randy L. Buckner & BT Thomas Yeo
 	[**The detailed organization of the human cerebellum estimated by intrinsic functional connectivity within the individual**](https://journals.physiology.org/doi/prev/20201202-aop/pdf/10.1152/jn.00561.2020) _Journal of Neurophysiology_ 
 
-![image](https://github.com/user-attachments/assets/6b0970f8-664e-4518-91f0-53a9dbb664f9)
+<div>
+<img class="img-fluid" src="/static/img/pub/Abstract5.png" alt="qFit" width=600>
+</div>
 
  #### 2020
 
