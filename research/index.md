@@ -24,7 +24,7 @@ Within association zones, regions form interconnected networks that are distribu
 For example, three interwoven networks - often blurred in group-averaged data - can be reliably identified in individuals, and each differentially responds to tasks targeting remembering, social reasoning, or language-relevant functions. Two additional networks appear to have more domain-flexible roles in cognitive control.
 
 <div>
-<img class="img-fluid" src="/static/img/pub/Img2DiNicolaBuckner.png" alt="qFit" width=400>
+<img class="img-fluid" src="/static/img/pub/Img2DiNicolaBuckner.png" alt="qFit" width=600>
 </div>
 
 The image above shows an example of three domain-specialized association networks, defined within a single individual. The networks differentially respond to tasks tareting memory, theory of mind and language (Fig. 2 in DiNicola & Buckner 2021). Think about that further - within the zones showing the greatest evolutionary expansion in humans AND prolonged postnatal development, there are distinct networks - with regions side-by-side across the cortex - each supporting a functional domain that appears particularly advanced in the human niche! 
