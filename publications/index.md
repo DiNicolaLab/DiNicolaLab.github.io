@@ -14,7 +14,7 @@ Jingnan Du#, Lauren M. DiNicola#, Peter A. Angeli#, Noam Saadon-Grosman, Wendy S
 
 
 <div>
-<img class="img-fluid" src="/static/img/pub/Abstract1.png" alt="qFit" width=500>
+<img class="img-fluid" src="/static/img/pub/Abstract1.png" alt="qFit" width=600>
 </div>
 
 Peter A. Angeli, _Lauren M. DiNicola_, Noam Saadon-Grosman, Mark C. Eldaief & Randy L. Buckner
@@ -29,14 +29,14 @@ _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
 	[**Side-by-side regions in dorsolateral prefrontal cortex estimated within the individual respond differentially to domain-specific and domain-flexible processes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11068361/) _Journal of Neurophysiology_
 
 <div>
-<img class="img-fluid" src="/static/img/pub/Abstract2.png" alt="qFit" width=500>
+<img class="img-fluid" src="/static/img/pub/Abstract2.png" alt="qFit" width=600>
 </div>
 
 _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 	[**Functional specialization of parallel distributed networks revealed by analysis of trial-to-trial variation in processing demands**](https://journals.physiology.org/doi/prev/20221005-aop/pdf/10.1152/jn.00211.2022) _Journal of Neurophysiology_
 
 <div>
-<img class="img-fluid" src="/static/img/pub/Abstract3.png" alt="qFit" width=500>
+<img class="img-fluid" src="/static/img/pub/Abstract3.png" alt="qFit" width=600>
 </div>
 
 #### 2022
@@ -58,7 +58,7 @@ Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. 
 	[**The detailed organization of the human cerebellum estimated by intrinsic functional connectivity within the individual**](https://journals.physiology.org/doi/prev/20201202-aop/pdf/10.1152/jn.00561.2020) _Journal of Neurophysiology_ 
 
 <div>
-<img class="img-fluid" src="/static/img/pub/Abstract5.png" alt="qFit" width=500>
+<img class="img-fluid" src="/static/img/pub/Abstract5.png" alt="qFit" width=600>
 </div>
 
  #### 2020
