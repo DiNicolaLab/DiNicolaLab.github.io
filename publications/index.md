@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-group: research
+group: publications
 ---
 
 <div class="row">
