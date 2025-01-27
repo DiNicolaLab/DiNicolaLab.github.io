@@ -16,6 +16,7 @@ Jingnan Du#, Lauren M. DiNicola#, Peter A. Angeli#, Noam Saadon-Grosman, Wendy S
 <img class="img-fluid" src="/static/img/pub/Abstract1.png" alt="qFit" width=600>
 </div>  
 <br>  
+
 Peter A. Angeli, _Lauren M. DiNicola_, Noam Saadon-Grosman, Mark C. Eldaief & Randy L. Buckner
 	[**Specialization of the human hippocampal long axis revisited.**](https://www.pnas.org/doi/pdf/10.1073/pnas.2422083122) _PNAS_  
 
