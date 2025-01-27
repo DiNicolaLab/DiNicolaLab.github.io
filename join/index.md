@@ -22,7 +22,7 @@ Inquiries about Postdoctoral positions should be emailed directly to [Dr. Lauren
 ##### Graduate Students
 Applications for entering the graduate program in fall 2025 have closed. Thank you for your interest! 
 
-Information for applying to UVA's graduate program in Psychology can be found by clicking [here]([https://graduate.ucsf.edu/programs](https://psychology.as.virginia.edu/application-form-and-admission-process).
+Information for applying to UVA's graduate program in Psychology can be found by clicking [here]([https://graduate.ucsf.edu/programs](https://psychology.as.virginia.edu/application-form-and-admission-process).  
 For answers to FAQ about UVA's Graduate Program in the Dept. of Psychology, please see [here](https://psychology.as.virginia.edu/graduate-faq). 
 For other resources relevant to graduate school applications, please see [Harvard PRO-TiP](https://psychology.fas.harvard.edu/pro-tip) and this [collection of resources from the PINE LAB](https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers/grad-school-application)! 
 
