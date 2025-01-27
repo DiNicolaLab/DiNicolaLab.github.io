@@ -30,7 +30,8 @@ _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract2.png" alt="qFit" width=600>
 </div>  
-<br>    
+<br>  
+
 _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 	[**Functional specialization of parallel distributed networks revealed by analysis of trial-to-trial variation in processing demands**](https://journals.physiology.org/doi/prev/20221005-aop/pdf/10.1152/jn.00211.2022) _Journal of Neurophysiology_  
 
