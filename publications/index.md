@@ -15,7 +15,7 @@ Jingnan Du#, Lauren M. DiNicola#, Peter A. Angeli#, Noam Saadon-Grosman, Wendy S
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract1.png" alt="qFit" width=600>
 </div>  
-  
+<br>  
 Peter A. Angeli, _Lauren M. DiNicola_, Noam Saadon-Grosman, Mark C. Eldaief & Randy L. Buckner
 	[**Specialization of the human hippocampal long axis revisited.**](https://www.pnas.org/doi/pdf/10.1073/pnas.2422083122) _PNAS_  
 
@@ -30,14 +30,15 @@ _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract2.png" alt="qFit" width=600>
 </div>  
-  
+<br>    
 _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 	[**Functional specialization of parallel distributed networks revealed by analysis of trial-to-trial variation in processing demands**](https://journals.physiology.org/doi/prev/20221005-aop/pdf/10.1152/jn.00211.2022) _Journal of Neurophysiology_  
 
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract3.png" alt="qFit" width=600>
 </div>  
-  
+<br>  
+
 #### 2022
 
 Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
@@ -46,7 +47,8 @@ Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract4.png" alt="qFit" width=600>
 </div>  
-  
+<br>  
+
 #### 2021 
 
 _Lauren M. DiNicola_ & Randy L. Buckner 
@@ -58,7 +60,7 @@ Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. 
 <div>
 <img class="img-fluid" src="/static/img/pub/Abstract5.png" alt="qFit" width=600>
 </div>  
-
+<br>  
   
 #### 2020
 
