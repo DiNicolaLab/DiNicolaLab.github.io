@@ -66,7 +66,7 @@ Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. 
 </div>  
 
 
- #### 2020
+#### 2020
 
 Rodrigo M. Braga, _Lauren M. DiNicola_, Hannah C. Becker & Randy L. Buckner
 	[**Situating the left-lateralized language network in the broader organization of multiple specialized large-scale distributed networks**](https://journals.physiology.org/doi/epdf/10.1152/jn.00753.2019) _Journal of Neurophysiology_
