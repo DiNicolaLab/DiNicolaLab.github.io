@@ -23,7 +23,8 @@ Peter A. Angeli, _Lauren M. DiNicola_, Noam Saadon-Grosman, Mark C. Eldaief & Ra
 
 Noam Saadon-Grosman, Jingnan Du, Heather L. Kosakowski, Peter A. Angeli, _Lauren M. DiNicola_, Mark C. Eldaief & Randy L. Buckner 
 	[**Within-individual organization of the human cognitive cerebellum: Evidence for closely juxtaposed, functionally specialized regions**](https://www.science.org/doi/pdf/10.1126/sciadv.adq4037) _Science Advances_
-	
+
+<br />
 #### 2023
 
 _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
@@ -41,7 +42,7 @@ _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 <img class="img-fluid" src="/static/img/pub/Abstract3.png" alt="qFit" width=600>
 </div>  
 
-
+<br />
 #### 2022
 
 Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
@@ -51,7 +52,7 @@ Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
 <img class="img-fluid" src="/static/img/pub/Abstract4.png" alt="qFit" width=600>
 </div>  
 
-
+<br />
 #### 2021 
 
 _Lauren M. DiNicola_ & Randy L. Buckner 
@@ -65,7 +66,7 @@ Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. 
 <img class="img-fluid" src="/static/img/pub/Abstract5.png" alt="qFit" width=600>
 </div>  
 
-
+<br />
 #### 2020
 
 Rodrigo M. Braga, _Lauren M. DiNicola_, Hannah C. Becker & Randy L. Buckner
@@ -73,7 +74,7 @@ Rodrigo M. Braga, _Lauren M. DiNicola_, Hannah C. Becker & Randy L. Buckner
  
 _Lauren M. DiNicola_, Rodrigo M. Braga & Randy L. Buckner
 	[**Parallel distributed networks dissociate episodic and social functions within the individual**](https://journals.physiology.org/doi/epdf/10.1152/jn.00529.2019) _Journal of Neurophysiology_
-
+<br />
 #### 2019
 
 Randy L. Buckner & Lauren M. DiNicola 
