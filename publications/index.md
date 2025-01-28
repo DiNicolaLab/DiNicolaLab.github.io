@@ -12,7 +12,7 @@ group: publications
 Jingnan Du#, Lauren M. DiNicola#, Peter A. Angeli#, Noam Saadon-Grosman, Wendy Sun, Stephanie Kaiser, Joanna Ladopoulou, Aihuiping Xue, BT Thomas Yeo, Mark C. Eldaief & Randy L. Buckner
 	[**Organization of the human cerebral cortex estimated within individuals: networks, global topography, and function**](https://journals.physiology.org/doi/pdf/10.1152/jn.00308.2023) _Journal of Neurophysiology_ (# denotes co-first authorship)  
 
-<img class="img-fluid" src="/static/img/pub/Abstract1.png">  
+<img src="/static/img/pub/Abstract1.png">  
 _(Graphical Abstract)_  
 <br/><br/>
 
@@ -28,14 +28,14 @@ Noam Saadon-Grosman, Jingnan Du, Heather L. Kosakowski, Peter A. Angeli, _Lauren
 _Lauren M DiNicola_, Wendy Sun & Randy L Buckner
 	[**Side-by-side regions in dorsolateral prefrontal cortex estimated within the individual respond differentially to domain-specific and domain-flexible processes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11068361/) _Journal of Neurophysiology_  
 
-<img class="img-fluid" src="/static/img/pub/Abstract2.png"> 
+<img src="/static/img/pub/Abstract2.png"> 
 _(Graphical Abstract)_   
 <br/><br/>
 
 _Lauren M. DiNicola_, Oluwatobi I. Ariyo & Randy L. Buckner
 	[**Functional specialization of parallel distributed networks revealed by analysis of trial-to-trial variation in processing demands**](https://journals.physiology.org/doi/prev/20221005-aop/pdf/10.1152/jn.00211.2022) _Journal of Neurophysiology_  
 
-<img class="img-fluid" src="/static/img/pub/Abstract3.png">  
+<img src="/static/img/pub/Abstract3.png">  
 _(Graphical Abstract)_  
 <br/><br/>
 
@@ -44,7 +44,7 @@ _(Graphical Abstract)_
 Noam Saadon-Grosman, Peter A. Angeli, _Lauren M. DiNicola_ & Randy L. Buckner
 	[**A third somatomotor representation in the human cerebellum**](https://journals.physiology.org/doi/epdf/10.1152/jn.00165.2022) _Journal of Neurophysiology_  
 
-<img class="img-fluid" src="/static/img/pub/Abstract4.png">
+<img src="/static/img/pub/Abstract4.png">
 _(Graphical Abstract)_  
 <br/><br/>
   
@@ -57,7 +57,7 @@ Aihuiping Xue, Ru Kong, Qing Yang, Mark C. Eldaief, Peter A. Angeli, _Lauren M. 
 	[**The detailed organization of the human cerebellum estimated by intrinsic functional connectivity within the individual**](https://journals.physiology.org/doi/prev/20201202-aop/pdf/10.1152/jn.00561.2020) _Journal of Neurophysiology_  
 
 
-<img class="img-fluid" src="/static/img/pub/Abstract5.png">  
+<img src="/static/img/pub/Abstract5.png">  
 _(Graphical Abstract)_  
 <br/><br/>  
   
