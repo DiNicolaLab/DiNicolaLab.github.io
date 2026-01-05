@@ -6,7 +6,7 @@ group: join
 
 ## Join the DiNicola Lab!
 
-We strive to provide enriching opportunities for all trainees. We welcome and encourage applications from all trainees, including those who identify as members of marginalized or historically disadvantaged groups! 
+We strive to provide enriching opportunities for all and welcome and encourage all applications! 
 <br/>
 
 ### Open Positions
