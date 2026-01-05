@@ -6,21 +6,17 @@ group: join
 
 ## Join the DiNicola Lab!
 
-We strive to provide enriching opportunities for all trainees, including those from marginalized and historically disadvantaged backgrounds. We welcome and encourage applications from all trainees, including those who identify as members of marginalized or historically disadvantaged groups! 
-
+We strive to provide enriching opportunities for all trainees. We welcome and encourage applications from all trainees, including those who identify as members of marginalized or historically disadvantaged groups! 
 
 ### Open Positions
-##### Research Technician / Lab Manager 
-We are actively recruiting a full-time Research Technician / Lab Manager! This is a two-year, fully on-site position (fall 2025-summer 2027). We will post the full advertisement shortly, and please reach out to Dr. DiNicola directly with your interest or questions! 
-
-##### Postdoctoral Fellows
-Inquiries about Postdoctoral positions should be emailed directly to [Dr. Lauren DiNicola](/contact). Formal ad coming soon.
+##### Postdoctoral Research Associate
+Please apply [here](https://uva.wd1.myworkdayjobs.com/UVAJobs/job/Charlottesville-VA/Research-Associate-in-Psychology_R0079237)! Please reach out with any questions to [Dr. Lauren DiNicola](/contact). 
 
 <br/>
   
 ### Other Positions   
 ##### Graduate Students
-Applications for entering the graduate program in fall 2025 have closed. Thank you for your interest! 
+We are not recruiting graduate students for entry in fall 2026. 
 
 Information for applying to UVA's graduate program in Psychology can be found by clicking [here](https://psychology.as.virginia.edu/application-form-and-admission-process).  
 For answers to FAQ about UVA's Graduate Program in the Dept. of Psychology, please see [here](https://psychology.as.virginia.edu/graduate-faq). 
