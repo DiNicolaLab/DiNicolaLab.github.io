@@ -2,22 +2,22 @@
   link: "/"
   group: home
 
-- name: research
-  link: "/research"
-  group: research
+# - name: research
+#  link: "/research"
+#  group: research
 
-- name: publications
-  link: "/publications"
-  group: publications
+#- name: publications
+#  link: "/publications"
+#  group: publications
 
-- name: team
-  link: "/team"
-  group: team
+#- name: team
+#  link: "/team"
+#  group: team
 
-- name: join
-  link: "/join"
-  group: join
+#- name: join
+#  link: "/join"
+#  group: join
 
-- name: contact
-  link: "/contact"
-  group: contact
+#- name: contact
+#  link: "/contact"
+#  group: contact
