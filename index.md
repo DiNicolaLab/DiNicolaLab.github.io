@@ -16,6 +16,6 @@ We study _how_ our brains support complex cognitive functions to better understa
 
 This website is _under construction_ as of January 2026! Check back soon for an updated version. 
 
-In the meantime, we are currently recruiting a [Postdoctoral Research Associate](https://uva.wd1.myworkdayjobs.com/UVAJobs/job/Charlottesville-VA/Research-Associate-in-Psychology_R0079237) ! Please reach out with any questions. 
+In the meantime, we are currently recruiting [Undergraduate Research Assistants](https://virginia.az1.qualtrics.com/jfe/form/SV_6FmneOT8Dr3H4dE)! Please complete the linked Qualtrics form, if of interest, and reach out with any questions.
 
 {: .welcomefont}
