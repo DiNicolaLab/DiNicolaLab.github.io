@@ -16,7 +16,7 @@ We study _how_ our brains support complex cognitive functions to better understa
 
 This website is _under construction_ as of January 2026! Check back soon for an updated version. 
 
-In the meantime, we are currently recruiting [Undergraduate Research Assistants](https://virginia.az1.qualtrics.com/jfe/form/SV_6FmneOT8Dr3H4dE)! Please complete the linked Qualtrics form, if of interest, and reach out with any questions.
-We plan to make hiring decisions by the end of April. Summer and fall positions are available, also with the possibility of jumping in this spring. Please submit your applications by April 15. 
+Thank you for your interest in joining our lab as an undergraduate research assistant. 
+If fall positions are of interest to you, please feel free to complete the application at this link for [Undergraduate Research Assistants](https://virginia.az1.qualtrics.com/jfe/form/SV_6FmneOT8Dr3H4dE)! 
 
 {: .welcomefont}
