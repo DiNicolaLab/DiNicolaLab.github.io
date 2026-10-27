@@ -1,0 +1,24 @@
+<div class="row member-card" id="{{ include.m.name | slugify }}">
+  {% if include.m.image and include.m.image != "" %}
+  <div class="col-sm-3">
+    <img class="img-fluid member-photo" src="{{ include.m.image }}" alt="{{ include.m.name }}" loading="lazy">
+  </div>
+  <div class="col-sm-9">
+  {% else %}
+  <div class="col">
+  {% endif %}
+    <h4 class="member-name">{{ include.m.name }}</h4>
+    <div class="member-meta">
+      {{ include.m.position }}{% if include.m.pronouns and include.m.pronouns != "" %} &middot; <em>{{ include.m.pronouns }}</em>{% endif %}
+      {% if include.m.email and include.m.email != "" %}<br>{{ include.m.email }}{% endif %}
+      {% if include.m.website and include.m.website != "" %}<br><a href="{{ include.m.website }}">{{ include.m.website }}</a>{% endif %}
+      {% if include.m.orcid and include.m.orcid != "" %}<br><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg" alt="" aria-hidden="true"> <a href="https://orcid.org/{{ include.m.orcid }}">ORCID</a>{% endif %}
+      {% if include.m.scholar and include.m.scholar != "" %}<br><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg" alt="" aria-hidden="true"> <a href="https://scholar.google.com/citations?user={{ include.m.scholar }}">Google Scholar</a>{% endif %}
+      {% if include.m.linkedin and include.m.linkedin != "" %}<br><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg" alt="" aria-hidden="true"> <a href="https://www.linkedin.com/in/{{ include.m.linkedin }}">LinkedIn</a>{% endif %}
+      {% if include.m.github and include.m.github != "" %}<br><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg" alt="" aria-hidden="true"> <a href="https://github.com/{{ include.m.github }}">GitHub</a>{% endif %}
+    </div>
+    {% if include.m.description and include.m.description != "" %}
+    <div class="member-bio">{{ include.m.description | markdownify }}</div>
+    {% endif %}
+  </div>
+</div>

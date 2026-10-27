@@ -121,3 +121,79 @@ body {
   }
 }
 */
+
+/* ---- Home page ---- */
+.welcome-title {
+  color: #232D4B; /* UVA navy */
+}
+
+.home-main {
+  padding: 1rem 1.5rem 2rem 0;
+}
+
+.home-sidebar {
+  border-left: 1px solid #000;
+  padding-left: 1.5rem;
+}
+
+.lab-logo {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+
+/* On phones the columns stack, so use a line above the sidebar instead */
+@media (max-width: 575.98px) {
+  .home-main {
+    padding-right: 0;
+  }
+  .home-sidebar {
+    border-left: none;
+    border-top: 1px solid #000;
+    padding-left: 15px;
+    padding-top: 1.5rem;
+  }
+}
+
+/* ---- Team page ---- */
+.team-section {
+  color: #232D4B;
+  margin-top: 2.5rem;
+  padding-bottom: .4rem;
+  border-bottom: 1px solid #000;
+}
+
+.member-card {
+  margin-top: 1.25rem;
+}
+
+.member-photo {
+  border-radius: 4px;
+  margin-bottom: .75rem;
+}
+
+.member-name {
+  margin-bottom: .2rem;
+}
+
+.member-meta {
+  color: #555;
+  margin-bottom: .5rem;
+}
+
+.undergrad-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1rem;
+  columns: 2;
+}
+
+.undergrad-list li {
+  padding: .2rem 0;
+}
+
+.team-join {
+  margin-top: 2.5rem;
+}

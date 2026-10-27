@@ -1,11 +1,8 @@
 ---
-title: DiNicola Lab Team 
-layout: default
-group: team
+title: NEST Lab Team
+layout: null
+permalink: /members/
 ---
-
-## DiNicola Lab
-
-#### We are building our team! 
-Do you love conducting rigorous science with kind & collaborative team members within an inclusive learning environment? See the 'Join' tab for open positions! 
-
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=/team/"><link rel="canonical" href="/team/"><title>NEST Lab Team</title></head>
+<body><a href="/team/">NEST Lab Team</a></body></html>

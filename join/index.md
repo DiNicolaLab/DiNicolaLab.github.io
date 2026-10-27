@@ -1,10 +1,10 @@
 ---
-title: Join the DiNicola Lab!
+title: Join the NEST Lab!
 layout: default
 group: join
 ---
 
-## Join the DiNicola Lab!
+## Join the NEST Lab!
 
 We strive to provide enriching opportunities for all and welcome and encourage all applications! 
 <br/>

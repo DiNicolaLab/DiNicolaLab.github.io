@@ -1,0 +1,36 @@
+---
+title: NEST Lab Team
+layout: default
+group: team
+---
+
+<h2 class="welcome-title">NEST Lab Team</h2>
+
+{% assign pi = site.members | where: "group", "pi" %}
+{% assign postdocs = site.members | where: "group", "postdoc" %}
+{% assign grads = site.members | where: "group", "grad" %}
+{% assign undergrads = site.members | where: "group", "undergrad" %}
+
+{% if pi.size > 0 %}
+<h3 class="team-section">Principal Investigator</h3>
+{% for m in pi %}{% include member_card.html m=m %}{% endfor %}
+{% endif %}
+
+{% if postdocs.size > 0 %}
+<h3 class="team-section">Postdoctoral Research Associate{% if postdocs.size > 1 %}s{% endif %}</h3>
+{% for m in postdocs %}{% include member_card.html m=m %}{% endfor %}
+{% endif %}
+
+{% if grads.size > 0 %}
+<h3 class="team-section">Graduate Students</h3>
+{% for m in grads %}{% include member_card.html m=m %}{% endfor %}
+{% endif %}
+
+{% if undergrads.size > 0 %}
+<h3 class="team-section">Undergraduate Research Assistants</h3>
+<ul class="undergrad-list">
+{% for m in undergrads %}<li>{{ m.name }}</li>{% endfor %}
+</ul>
+{% endif %}
+
+<p class="team-join">Interested in joining us? See the <a href="/join">Join</a> page for open positions.</p>

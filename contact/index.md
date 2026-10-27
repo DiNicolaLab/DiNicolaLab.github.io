@@ -1,10 +1,10 @@
 ---
-title: Contact the DiNicola Lab
+title: Contact the NEST Lab
 layout: default
 group: contact
 ---
 
-# Contact the DiNicola Lab
+# Contact the NEST Lab
 
 
 <div class="row">

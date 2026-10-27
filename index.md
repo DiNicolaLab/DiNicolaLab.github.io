@@ -1,22 +1,19 @@
 ---
-title: DiNicola Lab
+title: NEST Lab
 layout: home
 group: home
 ---
 
-#### Welcome to the DiNicola Lab!
-{: .display-4}
+#### Welcome to the NEST Lab!
+{: .display-4 .welcome-title}
 <br>
-We are new to the [Department of Psychology at the University of Virgnia](https://psychology.as.virginia.edu/) !
+The NEST (Neuroscience and Experience of Social Transitions) Lab is in the [Department of Psychology at the University of Virginia](https://psychology.as.virginia.edu/).
 {: .welcomefont}
 
-<!-- ![DiNicola lab brain](static/img/logo/example_brain.png){:style="max-width: 100%; height: auto;"} --> 
+Human minds are incredibly flexible. We can remember our own pasts, consider others' feelings, imagine new events, communicate through language, control impulses, and the list goes on! Our capacities for these functions are also not exactly the same throughout our lives. Some periods feature both greater evidence of change and higher risk for the emergence of clinical symptoms that might impact our cognitive experiences.
 
-We study _how_ our brains support complex cognitive functions to better understand _why_ human minds are both flexible and vulnerable to psychopathology. We use a precision neuroscience approach to examine the organization & functions of humans' large-scale brain networks, as well as how those networks develop & change. 
+In NEST Lab, we want to know how the human brain supports complex cognitive functions to better understand why human minds are both flexible and vulnerable to psychopathology. We use precision neuroscience methods (e.g., repeated MRI scanning) to examine the organization and functions of large-scale brain networks and precision behavioral methods (e.g., remote ambulatory and ecological momentary assessments) to characterize objective and subjective measures of cognition. We use these techniques to ask foundational questions about networks and more exploratory questions about change.
 
-This website is _under construction_ as of January 2026! Check back soon for an updated version. 
+We are particularly interested in timeframes that feature big social transitions, coinciding with other (biological, behavioral, cognitive) changes and psychopathology risks, with particular focus on matrescence and adolescence. Our lab name captures core aspects of our research program and also relates to these two interesting windows: metaphorical preparation of a nest (matrescence) and to leave a nest (adolescence).
 
-Thank you for your interest in joining our lab as an undergraduate research assistant. 
-If fall positions are of interest to you, please feel free to complete the application at this link for [Undergraduate Research Assistants](https://virginia.az1.qualtrics.com/jfe/form/SV_6FmneOT8Dr3H4dE)! 
-
-{: .welcomefont}
+We are actively recruiting for multiple positions. Please see the [JOIN](/join) page for more information!

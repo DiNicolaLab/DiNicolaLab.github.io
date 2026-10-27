@@ -1,5 +1,5 @@
-name: "DiNicola Lab"
-description: "This is the official web page for Lauren DiNicola's Lab at the University of Virginia."
+name: "NEST Lab"
+description: "This is the official web page for the NEST Lab (Lauren DiNicola, PI) at the University of Virginia."
 
 url: "http://dinicolalab.org"
 
@@ -28,7 +28,7 @@ collections:
         affiliates:
                 output: true
         members:
-                output: true
+                output: false
         publications:
                 output: true
         reviews:

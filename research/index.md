@@ -1,5 +1,5 @@
 ---
-title: Research in the DiNicola Lab
+title: Research in the NEST Lab
 layout: default
 group: research
 ---
