@@ -11,5 +11,5 @@ orcid:
 scholar:
 linkedin:
 github:
-description: ""
+description: "Nitya Ramesh is a fourth-year Neuroscience major working on the Internal Control project in the NEST Lab. Originally from Ashburn, VA, Nitya loves crafting and watching movies!"
 ---

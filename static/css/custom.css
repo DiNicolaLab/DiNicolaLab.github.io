@@ -183,17 +183,6 @@ body {
   margin-bottom: .5rem;
 }
 
-.undergrad-list {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 1rem;
-  columns: 2;
-}
-
-.undergrad-list li {
-  padding: .2rem 0;
-}
-
 .team-join {
   margin-top: 2.5rem;
 }

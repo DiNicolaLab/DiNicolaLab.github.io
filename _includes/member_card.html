@@ -1,12 +1,12 @@
 <div class="row member-card" id="{{ include.m.name | slugify }}">
-  {% if include.m.image and include.m.image != "" %}
   <div class="col-sm-3">
+    {% if include.m.image and include.m.image != "" %}
     <img class="img-fluid member-photo" src="{{ include.m.image }}" alt="{{ include.m.name }}" loading="lazy">
+    {% else %}
+    <img class="img-fluid member-photo" src="/static/img/members/placeholder.svg" alt="" loading="lazy">
+    {% endif %}
   </div>
   <div class="col-sm-9">
-  {% else %}
-  <div class="col">
-  {% endif %}
     <h4 class="member-name">{{ include.m.name }}</h4>
     <div class="member-meta">
       {{ include.m.position }}{% if include.m.pronouns and include.m.pronouns != "" %} &middot; <em>{{ include.m.pronouns }}</em>{% endif %}

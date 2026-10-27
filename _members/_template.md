@@ -1,6 +1,6 @@
 Copy this file, rename it to the person's last name (e.g. smith.md), and fill it in.
 Only name, position, and group are required. Leave any other line blank to hide it.
-Groups: pi, postdoc, grad, undergrad (shown as a simple name list), or alumni (hidden).
+Groups: pi, postdoc, grad, undergrad, or alumni (hidden). Anyone without a photo gets a placeholder.
 ---
 name: "FirstName LastName"
 position: Graduate Student

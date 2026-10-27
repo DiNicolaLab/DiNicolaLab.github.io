@@ -28,9 +28,7 @@ group: team
 
 {% if undergrads.size > 0 %}
 <h3 class="team-section">Undergraduate Research Assistants</h3>
-<ul class="undergrad-list">
-{% for m in undergrads %}<li>{{ m.name }}</li>{% endfor %}
-</ul>
+{% for m in undergrads %}{% include member_card.html m=m %}{% endfor %}
 {% endif %}
 
 <p class="team-join">Interested in joining us? See the <a href="/join">Join</a> page for open positions.</p>
