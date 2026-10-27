@@ -20,7 +20,7 @@ group: contact
 <div class="col-md-4">
 
   <h4> Contact Us </h4>
-  email: dinicolalab (at) gmail.com <br>
+  email: nestlab (at) virginia.edu <br>
 
 </div>
 
@@ -29,7 +29,7 @@ group: contact
   <h4> Principal Investigator </h4>
   Lauren DiNicola, Ph.D. 
   Assistant Professor <br>
-  email: kpw6tb(at) virginia.edu<br>
+  email: kpw6tb (at) virginia.edu<br>
 
 </div>
 
