@@ -10,19 +10,25 @@ We strive to provide enriching opportunities for all and welcome and encourage a
 <br/>
 
 ### Open Positions
-##### Postdoctoral Research Associate
-Please apply [here](https://uva.wd1.myworkdayjobs.com/UVAJobs/job/Charlottesville-VA/Research-Associate-in-Psychology_R0079237)! Please reach out with any questions to [Dr. Lauren DiNicola](/contact). 
 
-### Other Positions   
 ##### Graduate Students
-We are not recruiting graduate students for entry in fall 2026. 
+We are actively recruiting graduate students through the Cognitive Area of the Psychology Department, for entry in fall 2027.
 
-Information for applying to UVA's graduate program in Psychology can be found by clicking [here](https://psychology.as.virginia.edu/application-form-and-admission-process).  
-For answers to FAQ about UVA's Graduate Program in the Dept. of Psychology, please see [here](https://psychology.as.virginia.edu/graduate-faq). 
-For other resources relevant to graduate school applications, please see [Harvard PRO-TiP](https://psychology.fas.harvard.edu/pro-tip) and this [collection of resources from the PINE LAB](https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers/grad-school-application)! 
+For more information / to apply: [UVA Psychology application and admission process](https://psychology.as.virginia.edu/application-form-and-admission-process)
 
+##### Postdoctoral Research Associate
+We are actively recruiting a Postdoctoral Research Associate to work on an NIMH-funded project examining change in precision networks within and across densely-sampled adolescents.
+
+Preferred:
+
+* Experience with functional magnetic resonance imaging data analysis, precision tools and/or developmental methods.
+* Strong leadership, organizational and project management skills.
+* Interest in developing research interests, writing research papers, and mentoring students in the lab.
+
+For more information / to apply: [Research Associate in Psychology (R0086719)](https://careers.uvahealth.org/us/en/job/R0086719/Research-Associate-in-Psychology)
+
+##### Post-Baccalaureate Research Coordinator
+We plan to recruit a post-baccalaureate Research Coordinator, with details to come soon.
 
 ##### Undergraduate Research Assistants
-We will be actively recruiting undergraduate research assistants to start spring 2026. More soon! 
-
-
+We are not currently recruiting for undergraduate research positions.
