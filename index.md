@@ -4,6 +4,8 @@ layout: home
 group: home
 ---
 
+![NEST Lab: Neuroscience & Experience of Social Transitions Lab](/static/img/logo/nest_lab_banner.png){: .lab-banner}
+
 #### Welcome to the NEST Lab!
 {: .display-4 .welcome-title}
 <br>
