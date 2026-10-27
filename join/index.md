@@ -16,6 +16,9 @@ We are actively recruiting graduate students through the Cognitive Area of the P
 
 For more information / to apply: [UVA Psychology application and admission process](https://psychology.as.virginia.edu/application-form-and-admission-process)
 
+For answers to FAQ about UVA's Graduate Program in the Dept. of Psychology, please see [here](https://psychology.as.virginia.edu/graduate-faq).
+For other resources relevant to graduate school applications, please see [Harvard PRO-TiP](https://psychology.fas.harvard.edu/pro-tip) and this [collection of resources from the PINE LAB](https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers/grad-school-application)!
+
 ##### Postdoctoral Research Associate
 We are actively recruiting a Postdoctoral Research Associate to work on an NIMH-funded project examining change in precision networks within and across densely-sampled adolescents.
 
