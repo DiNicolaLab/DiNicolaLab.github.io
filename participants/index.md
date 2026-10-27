@@ -26,6 +26,6 @@ group: participants
       <li>You do not need to be local to UVA or come into the lab – this study can be completed wherever you are!</li>
     </ul>
 
-    <p>If interested in joining, please use the QR code on the flyer to the left to complete a brief survey! For any questions, please email <a href="mailto:nestlab@virginia.edu">nestlab@virginia.edu</a>.</p>
+    <p>If interested in joining, please use the QR code on the flyer to the left to complete a brief survey! For any questions, please email nestlab@virginia.edu.</p>
   </div>
 </div>
