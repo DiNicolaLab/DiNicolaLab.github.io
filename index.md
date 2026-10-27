@@ -20,4 +20,4 @@ In NEST Lab, we want to know how the human brain supports complex cognitive func
 
 We are particularly interested in timeframes that feature big social transitions, coinciding with other (biological, behavioral, cognitive) changes and psychopathology risks, with particular focus on matrescence and adolescence. Our lab name captures core aspects of our research program and also relates to these two interesting windows: metaphorical preparation of a nest (matrescence) and to leave a nest (adolescence).
 
-We are actively recruiting for multiple positions. Please see the [JOIN](/join) page for more information!
+We are actively recruiting graduate students and a postdoc. Please see the [For Applicants](/join) page for more details.
