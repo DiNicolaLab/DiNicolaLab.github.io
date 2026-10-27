@@ -6,7 +6,7 @@ group: home
 
 ![NEST Lab: Neuroscience & Experience of Social Transitions Lab](/static/img/logo/nest_lab_banner.png){: .lab-banner}
 
-#### Welcome to the NEST Lab!
+#### Welcome!
 {: .display-4 .welcome-title}
 <br>
 The NEST (Neuroscience and Experience of Social Transitions) Lab is in the [Department of Psychology at the University of Virginia](https://psychology.as.virginia.edu/).
