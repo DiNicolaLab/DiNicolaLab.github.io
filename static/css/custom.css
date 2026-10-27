@@ -194,3 +194,10 @@ body {
 .team-join {
   margin-top: 2.5rem;
 }
+
+/* ---- Navbar dropdown ---- */
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #E57200; /* matches the navbar */
+  color: #fff;
+}
