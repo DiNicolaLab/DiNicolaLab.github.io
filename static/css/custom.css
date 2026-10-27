@@ -229,3 +229,8 @@ body {
     margin-top: 1.5rem;
   }
 }
+
+/* ---- For Applicants (Join) page ---- */
+.position-heading {
+  margin-top: 2rem;
+}
