@@ -131,9 +131,22 @@ body {
   padding: 1rem 1.5rem 2rem 0;
 }
 
+.home-main .welcome-title {
+  font-size: 2.5rem; /* smaller than Bootstrap's display-4 */
+}
+
 .home-sidebar {
   border-left: 1px solid #000;
-  padding-left: 1.5rem;
+  padding-left: 1.25rem;
+  font-size: .9rem;
+}
+
+.home-sidebar h2 {
+  font-size: 1.4rem;
+}
+
+.home-sidebar h3 {
+  font-size: 1.1rem;
 }
 
 .lab-photo {
@@ -149,11 +162,11 @@ body {
   width: 100%;
   max-width: 680px;
   height: auto;
-  margin: 0 0 1.5rem;
+  margin: 0 auto 1.5rem;
 }
 
-/* On phones the columns stack, so use a line above the sidebar instead */
-@media (max-width: 575.98px) {
+/* On phones and small tablets the columns stack, so use a line above the sidebar instead */
+@media (max-width: 767.98px) {
   .home-main {
     padding-right: 0;
   }
