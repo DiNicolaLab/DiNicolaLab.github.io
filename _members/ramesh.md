@@ -3,7 +3,7 @@ name: "Nitya Ramesh"
 position: Undergraduate Research Assistant
 group: undergrad   # pi, postdoc, grad, undergrad, or alumni
 startdate:
-image:         # e.g. /static/img/members/ramesh.jpg (square, about 365 x 365 px)
+image: /static/img/members/ramesh.jpg
 pronouns:
 email:
 website:
